@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "./../components/Layout/Layout";
-import team from "../utils/team.jpg"
+import team from "../utils/teamx.jpg"
 import '../styles/AboutStyles.css'
 
 const About = () => {
